@@ -15,8 +15,7 @@ public class Maingeneric {
         Pleaseprint(intarray);
         System.out.println("my double array is");
         Pleaseprint(doublearray);
-        System.out.println("my char array is");
-        Pleaseprint(chararray);
+       
 	}
 
 }
